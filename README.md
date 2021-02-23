@@ -33,7 +33,13 @@
 ## Me contacter:
 <div>
 <div align="left">
-        <br> <br>
+        <div align = "right">
+            Suivez moi
+        <br>
+        <a href="https://github.com/harshalrj25/harshalrj25">
+               <img height="110" src="https://github.com/harshalrj25/MasterAssetsRepo/blob/master/mario.gif">
+        </a>
+        <br>
         <a href="mailto:harshalrj25@gmail.com" alt="Contact me">
         <code>
             <img  height="35" src="https://github.com/harshalrj25/MasterAssetsRepo/blob/master/stackoverflow.png">
@@ -49,16 +55,13 @@
         </a>&nbsp;
         <a href="https://medium.com/@harshalrj25" alt="Medium">
             <code>
-                <img  height="30" src="https://github.com/harshalrj25/MasterAssetsRepo/blob/master/medium.png">
+                <img  height="35" src="https://github.com/harshalrj25/MasterAssetsRepo/blob/master/medium.png">
             </code>
         </a>
+    <h3> 
+            "Programmez-vous pour être libre et liberez-vous de la programmation."
+    </h3>
     </div>  
-    | 
-    <div align = "right">
-            Suivez moi
-        <br>
-        <a href="https://github.com/harshalrj25/harshalrj25">
-               <img height="110" src="https://github.com/harshalrj25/MasterAssetsRepo/blob/master/mario.gif">
-        </a>
+
     </div> 
 </div>
