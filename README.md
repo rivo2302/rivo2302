@@ -55,7 +55,6 @@
     </div>  
     | 
     <div align = "right">
-        <br><br>
             Suivez moi
         <br>
         <a href="https://github.com/harshalrj25/harshalrj25">
