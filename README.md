@@ -1,13 +1,12 @@
 
-## RAJAONARIVONY Rivo Lalaina 💬
+#### RAJAONARIVONY Rivo Lalaina 💬
+
+## A propos:
 <br>
-##Profil :
- <hr>
 - 🔭 Je suis actuellement un étudiant en intégration et developpement à l'ESTI  soutenu par le programme SESAME.
 - 👯 Je suis ouvert à toutes les opportunités de collaboration ainsi je pourrai monter en compétences. 
 - 🌱Interessé  surtout par python ,dart,php. 
 <br>
-<hr>
 ## Mes compétences :
   <div align="center">
     <img src="https://img.shields.io/badge/-C-000000?&style=flat&logo=c&logoColor=5968BA" />
@@ -23,9 +22,9 @@
     <img src="https://img.shields.io/badge/-git-000000?&style=flat&logo=git&logoColor=E64A19"/>
     <img src="https://img.shields.io/badge/-Github-000000?style=flat&logo=github&logoColor=DEDEDF" />
 </div>
-<hr>
-##Mes statistiques :
+
+#### Mes statistiques: :
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=rivo2302&theme=react&show_icons=true&line_height=20&locale=fr&include_all_commits=true&count_private=true&card_width=300)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rivo2302&theme=react&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-<hr>Me contacter :
+## Me connecter:
 
