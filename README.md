@@ -27,23 +27,24 @@
     <img src="https://img.shields.io/badge/-Github-000000?style=flat&logo=github&logoColor=DEDEDF" />
 </div>
 
-## Mes statistiques: :
+## Mes statistiques: 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=rivo2302&theme=react&show_icons=true&line_height=20&locale=fr&include_all_commits=true&count_private=true&card_width=300)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rivo2302&theme=react&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+## Me contacter:
 <div>
 <div align="left">
-        ## Me contacter:
+        <br> <br>
         <a href="mailto:harshalrj25@gmail.com" alt="Contact me">
         <code>
-            <img  height="30" src="https://github.com/harshalrj25/MasterAssetsRepo/blob/master/stackoverflow.png">
+            <img  height="35" src="https://github.com/harshalrj25/MasterAssetsRepo/blob/master/stackoverflow.png">
         </code></a>&nbsp;<a href="https://www.linkedin.com/in/harshal-jadhav-298ba416a/" alt="Linkedin">
         <code>
-            <img  height="30" src="https://github.com/harshalrj25/MasterAssetsRepo/blob/master/stackoverflow.png">
+            <img  height="35" src="https://github.com/harshalrj25/MasterAssetsRepo/blob/master/stackoverflow.png">
         </code>
         </a>&nbsp;
         <a href="https://stackoverflow.com/users/7882093/harshal-jadhav?tab=profile" alt="Stack overflow">
             <code>
-                <img  height="30" src="https://github.com/harshalrj25/MasterAssetsRepo/blob/master/stackoverflow.png">
+                <img  height="35" src="https://github.com/harshalrj25/MasterAssetsRepo/blob/master/stackoverflow.png">
             </code>
         </a>&nbsp;
         <a href="https://medium.com/@harshalrj25" alt="Medium">
@@ -55,11 +56,10 @@
     | 
     <div align = "right">
         <br><br>
-            Hit a star
+            Suivez moi
         <br>
         <a href="https://github.com/harshalrj25/harshalrj25">
-               <img height="100" src="https://github.com/harshalrj25/MasterAssetsRepo/blob/master/mario.gif">
+               <img height="110" src="https://github.com/harshalrj25/MasterAssetsRepo/blob/master/mario.gif">
         </a>
-    </div>  |
-    | ------------- | ------------- |
+    </div> 
 </div>
