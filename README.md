@@ -32,13 +32,13 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rivo2302&theme=react&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 ## Me contacter:
 <div>
-<div align="left">
-
+    <div align="left">
         <br>
         <a href="mailto:harshalrj25@gmail.com" alt="Contact me">
         <code>
             <img  height="35" src="https://github.com/harshalrj25/MasterAssetsRepo/blob/master/stackoverflow.png">
-        </code></a>&nbsp;<a href="https://www.linkedin.com/in/harshal-jadhav-298ba416a/" alt="Linkedin">
+        </code></a>&nbsp;
+        <a href="https://www.linkedin.com/in/harshal-jadhav-298ba416a/" alt="Linkedin">
         <code>
             <img  height="35" src="https://github.com/harshalrj25/MasterAssetsRepo/blob/master/stackoverflow.png">
         </code>
@@ -53,16 +53,15 @@
                 <img  height="35" src="https://github.com/harshalrj25/MasterAssetsRepo/blob/master/medium.png">
             </code>
         </a>
-    <h3 align = "center"> 
-            "Programmez-vous pour être libre et liberez-vous de la programmation."
-    </h3>
+        <h3 align = "center"> 
+                "Programmez-vous pour être libre et liberez-vous de la programmation."
+        </h3>
     </div>  
             <div align = "right">
-            Suivez moi
-        <br>
-        <a href="https://github.com/harshalrj25/harshalrj25">
-               <img height="110" src="https://github.com/harshalrj25/MasterAssetsRepo/blob/master/mario.gif">
-        </a>
-
-    </div> 
+                Suivez moi
+                <br>
+                <a href="https://github.com/harshalrj25/harshalrj25">
+                       <img height="110" src="https://github.com/harshalrj25/MasterAssetsRepo/blob/master/mario.gif">
+                </a>
+            </div> 
 </div>
