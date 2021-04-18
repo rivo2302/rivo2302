@@ -30,38 +30,11 @@
 ## Mes statistiques: 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=rivo2302&theme=react&show_icons=true&line_height=20&locale=fr&include_all_commits=true&count_private=true&card_width=300)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rivo2302&theme=react&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-## Me contacter:
+
 <div>
-    <div align="left">
-        <br>
-        <a href="mailto:harshalrj25@gmail.com" alt="Contact me">
-        <code>
-            <img  height="35" src="https://github.com/harshalrj25/MasterAssetsRepo/blob/master/stackoverflow.png">
-        </code></a>&nbsp;
-        <a href="https://www.linkedin.com/in/harshal-jadhav-298ba416a/" alt="Linkedin">
-        <code>
-            <img  height="35" src="https://github.com/harshalrj25/MasterAssetsRepo/blob/master/stackoverflow.png">
-        </code>
-        </a>&nbsp;
-        <a href="https://stackoverflow.com/users/7882093/harshal-jadhav?tab=profile" alt="Stack overflow">
-            <code>
-                <img  height="35" src="https://github.com/harshalrj25/MasterAssetsRepo/blob/master/stackoverflow.png">
-            </code>
-        </a>&nbsp;
-        <a href="https://medium.com/@harshalrj25" alt="Medium">
-            <code>
-                <img  height="35" src="https://github.com/harshalrj25/MasterAssetsRepo/blob/master/medium.png">
-            </code>
-        </a>
+
         <h3 align = "center"> 
                 "Programmez-vous pour être libre et liberez-vous de la programmation."
         </h3>
-    </div>  
-            <div align = "right">
-                Suivez moi
-                <br>
-                <a href="https://github.com/harshalrj25/harshalrj25">
-                       <img height="110" src="https://github.com/harshalrj25/MasterAssetsRepo/blob/master/mario.gif">
-                </a>
-            </div> 
+    
 </div>
