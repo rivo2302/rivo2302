@@ -7,7 +7,7 @@
 ## A propos :
 
 - 🔭 Je suis actuellement un étudiant en intégration et developpement à l'ESTI  soutenu par le programme SESAME. <br>
-- 👯 Je suis ouvert à toutes les opportunités de collaboration ainsi je pourrai monter en compétences. <br>
+- 👯 Je suis ouvert à toutes les opportunités de collaboration qui pourrai me faire monter en compétence. <br>
 - 🌱Interessé  surtout par python ,dart,php, flutter. 
 
 
