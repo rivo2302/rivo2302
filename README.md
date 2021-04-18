@@ -31,10 +31,11 @@
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=rivo2302&theme=react&show_icons=true&line_height=20&locale=fr&include_all_commits=true&count_private=true&card_width=300)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rivo2302&theme=react&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-<div>
 
-        <h3 align = "center"> 
-                "Programmez-vous pour être libre et liberez-vous de la programmation."
-        </h3>
-    
+<div align="center">
+    <h2>"Programmez-vous pour être libre et liberez-vous de la programmation."</h2> 
 </div>
+                 
+       
+    
+
