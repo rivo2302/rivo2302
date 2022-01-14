@@ -1,4 +1,13 @@
 
+  <p align=center>  <strong> 🇲🇬 Bienvenu sur mon compte github! 🇲🇬 </strong> <p>
+
+<p align=center>  
+  <img src='https://readme-typing-svg.herokuapp.com?font=product+sans&color=%2300B6B6&center=true&lines=RAJAONARIVONY+Rivo+Lalaina'>
+<p>
+  
+<p align=center>  <strong>
+<img src='https://komarev.com/ghpvc/?username=rivo2302&color=008080'>
+</strong> <p>
   <div align="center">
     <img src="https://img.shields.io/badge/-Python-000000?style=flat&logo=python&logoColorhalf=396E9B" /> <br>
     <img src="https://img.shields.io/badge/-HTML-000000?&style=flat&logo=html5&logoColor=E44D26"/>
@@ -9,7 +18,7 @@
     <img src="https://img.shields.io/badge/-MongoDB-000000?style=flat&logo=mongodb&logoColor=4AAA3C" />
 </div>
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=rivo2302&theme=react&show_icons=true&line_height=20&locale=fr&include_all_commits=true&count_private=true&card_width=300)
+
 
 
                  
