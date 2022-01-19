@@ -23,9 +23,17 @@
       <img src='https://komarev.com/ghpvc/?username=rivo2302&color=008080'>
   </strong> 
 <p>
+
 <p align=center><strong>  Merci de la visite! 🇲🇬</strong> <p>
 
-
+<br>
+<br>
+<div align="left"> 
+    <img src="https://img.shields.io/static/v1?label=LinkdedIn&message=RAJAONARIVONY%20Rivo%20Lalaina&color=white&logo=linkedin&style=for-the-badge&logoColor=0D77FE"> 
+    <img src="https://img.shields.io/static/v1?label=Mail&message=rivo2302@gmail.com&color=white&logo=gmail&style=for-the-badge&logoColor=FE0D18"> 
+    <img src="https://img.shields.io/static/v1?label=Whatsapp&message=+261%2034%2009%20211%2007&color=white&logo=whatsapp&style=for-the-badge&logoColor=0AA73C">
+    <img src="https://img.shields.io/static/v1?label=skype&message=Rivo%20Lalaina&color=white&logo=skype&style=for-the-badge&logoColor=128AEF">
+</div>
                  
        
     
