@@ -1,22 +1,36 @@
 
-<p align=center>  <strong>Bienvenu sur mon compte github :) </strong> <p>
-<p align=center>  
-  <img src='https://readme-typing-svg.herokuapp.com?font=product+sans&color=%2300B6B6&center=true&lines=Odoo+/||Bot Messenge+||Webscrapping'>
-<p>
+<p align=center>  <strong>Bienvenu sur mon compte github 😁</strong> <p>
+<h1 align=center><img src="https://readme-typing-svg.herokuapp.com?font=jetbrains+mono&color=%231479BD&size=22&center=true&vCenter=true&lines=Python%2C+Odoo%2C+Docker;Vim%2C+Linux%2C+Flask" alt="Bot Messenger, Flask, Webscrapping"></h1>
 <div align="center">
-    <img src="https://img.shields.io/badge/-Python-000000?style=flat&logo=python&logoColorhalf=396E9B" /> <br>
-    <img src="https://img.shields.io/badge/-HTML-000000?&style=flat&logo=html5&logoColor=E44D26"/>
-    <img src="https://img.shields.io/badge/-CSS-000000?&style=flat&logo=css3&logoColor=42A5F5"/>
-    <img src="https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript&logoColor=FFCA28" />
-    <img src="https://img.shields.io/badge/-Php-000000?style=flat&logo=php&logoColor=1E87E3" /><br>
-    <img src="https://img.shields.io/badge/-MySQL-000000?style=flat&logo=mysql&logoColor=E6892E" />
-    <img src="https://img.shields.io/badge/-MongoDB-000000?style=flat&logo=mongodb&logoColor=4AAA3C" />
+    <img src="https://img.shields.io/badge/-Odoo-C162DE?style=for-the-badge&logo=python&logoColor=FFFFFF"/>
+    <img src="https://img.shields.io/badge/-Selenium-16C636?style=for-the-badge&logo=selenium&logoColor=FFFFFF"/>
+    <img src="https://img.shields.io/badge/-Python-396E9B?style=for-the-badge&logo=python&logoColorhalf=FFFFFF"/> 
+    <img src="https://img.shields.io/badge/-messenger-1BEFCF?style=for-the-badge&logo=Chatbot&logoColor=FFFFFF"/>
+    <img src="https://img.shields.io/badge/-MySQL-E6892E?style=for-the-badge&logo=mysql&logoColor=FFFFFF"/><br>
+  
+    <img src="https://img.shields.io/badge/-HTML-E44D26?&style=for-the-badge&logo=html5&logoColor=FFFFFF"/>
+    <img src="https://img.shields.io/badge/-CSS-42A5F5?&style=for-the-badge&logo=css3&logoColor=FFFFFF"/>
+    <img src="https://img.shields.io/badge/-JavaScript-FFCA28?style=for-the-badge&logo=javascript&logoColor=FFFFFF"/>
+    <img src="https://img.shields.io/badge/-Php-1E87E3?style=for-the-badge&logo=php&logoColor=FFFFFF" /><br>
+   
+    <img src="https://img.shields.io/badge/-Linux-F9F63C?style=for-the-badge&logo=linux&logoColor=FFFFFF" />
+    <img src="https://img.shields.io/badge/-Windows-3CB7F9?style=for-the-badge&logo=windows&logoColor=FFFFFF" />
+    <img src="https://img.shields.io/badge/-Docker-1926F1?style=for-the-badge&logo=docker&logoColor=FFFFFF" />
 </div>
+<br>
+<br>
 <p align=center>  
   <strong>
       <img src='https://komarev.com/ghpvc/?username=rivo2302&color=008080'>
   </strong> 
 <p>
+  <br>
+
+<p align=center>
+  <a href="https://www.linkedin.com/in/rajaonarivony/"><img margin-right=20 height=40 width=40 src="https://github.com/rootkit7628/rootkit7628/blob/main/img/linkedin.png"></a>
+  <a href="https://www.facebook.com/rivolalaina.rajaonarivony"><img height=40 width=40 src="https://github.com/rootkit7628/rootkit7628/blob/main/img/fb.png"></a>
+  <a href="#"><img height=40 width=40 src="https://github.com/rootkit7628/rootkit7628/blob/main/img/youtube.png"></a>
+</p>
 <p align=center>  <strong> Merci de la visite! 🇲🇬 </strong> <p>
 
 
