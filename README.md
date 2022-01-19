@@ -18,15 +18,12 @@
     <img src="https://img.shields.io/badge/-Docker-1926F1?style=for-the-badge&logo=docker&logoColor=FFFFFF">
 </div>
 <br>
-<br>
 <p align=center>  
   <strong>
       <img src='https://komarev.com/ghpvc/?username=rivo2302&color=008080'>
   </strong> 
 <p>
-  <br><br>
-
-<p align=center>  <strong> Merci de la visite! 🇲🇬 </strong> <p>
+<p align=center><strong>Merci de la visite! 🇲🇬</strong> <p>
 
 
                  
