@@ -4,18 +4,18 @@
 <div align="center">
     <img src="https://img.shields.io/badge/-Odoo-C162DE?style=for-the-badge&logo=python&logoColor=FFFFFF"/>
     <img src="https://img.shields.io/badge/-Selenium-16C636?style=for-the-badge&logo=selenium&logoColor=FFFFFF"/>
-    <img src="https://img.shields.io/badge/-Python-396E9B?style=for-the-badge&logo=python&logoColorhalf=FFFFFF"/> 
+    <img src="https://img.shields.io/badge/-Python-396E9B?style=for-the-badge&logo=python&logoColor=FFFFFF"/> 
     <img src="https://img.shields.io/badge/-messenger-1BEFCF?style=for-the-badge&logo=Chatbot&logoColor=FFFFFF"/>
-    <img src="https://img.shields.io/badge/-MySQL-E6892E?style=for-the-badge&logo=mysql&logoColor=FFFFFF"/><br>
-  
+    <img src="https://img.shields.io/badge/-MySQL-E6892E?style=for-the-badge&logo=mysql&logoColor=FFFFFF"/> <br>
+ 
     <img src="https://img.shields.io/badge/-HTML-E44D26?&style=for-the-badge&logo=html5&logoColor=FFFFFF"/>
     <img src="https://img.shields.io/badge/-CSS-42A5F5?&style=for-the-badge&logo=css3&logoColor=FFFFFF"/>
     <img src="https://img.shields.io/badge/-JavaScript-FFCA28?style=for-the-badge&logo=javascript&logoColor=FFFFFF"/>
-    <img src="https://img.shields.io/badge/-Php-1E87E3?style=for-the-badge&logo=php&logoColor=FFFFFF" /><br>
+    <img src="https://img.shields.io/badge/-Php-1E87E3?style=for-the-badge&logo=php&logoColor=FFFFFF"/> <br>
    
-    <img src="https://img.shields.io/badge/-Linux-F9F63C?style=for-the-badge&logo=linux&logoColor=FFFFFF" />
-    <img src="https://img.shields.io/badge/-Windows-3CB7F9?style=for-the-badge&logo=windows&logoColor=FFFFFF" />
-    <img src="https://img.shields.io/badge/-Docker-1926F1?style=for-the-badge&logo=docker&logoColor=FFFFFF" />
+    <img src="https://img.shields.io/badge/-Linux-F9F63C?style=for-the-badge&logo=linux&logoColor=FFFFFF"/>
+    <img src="https://img.shields.io/badge/-Windows-3CB7F9?style=for-the-badge&logo=windows&logoColor=FFFFFF"/>
+    <img src="https://img.shields.io/badge/-Docker-1926F1?style=for-the-badge&logo=docker&logoColor=FFFFFF">
 </div>
 <br>
 <br>
@@ -24,13 +24,8 @@
       <img src='https://komarev.com/ghpvc/?username=rivo2302&color=008080'>
   </strong> 
 <p>
-  <br>
+  <br><br>
 
-<p align=center>
-  <a href="https://www.linkedin.com/in/rajaonarivony/"><img margin-right=20 height=40 width=40 src="https://github.com/rootkit7628/rootkit7628/blob/main/img/linkedin.png"></a>
-  <a href="https://www.facebook.com/rivolalaina.rajaonarivony"><img height=40 width=40 src="https://github.com/rootkit7628/rootkit7628/blob/main/img/fb.png"></a>
-  <a href="#"><img height=40 width=40 src="https://github.com/rootkit7628/rootkit7628/blob/main/img/youtube.png"></a>
-</p>
 <p align=center>  <strong> Merci de la visite! 🇲🇬 </strong> <p>
 
 
