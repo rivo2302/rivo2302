@@ -23,7 +23,7 @@
       <img src='https://komarev.com/ghpvc/?username=rivo2302&color=008080'>
   </strong> 
 <p>
-<p align=center><strong>Merci de la visite! 🇲🇬</strong> <p>
+<p align=center><strong>  Merci de la visite! 🇲🇬</strong> <p>
 
 
                  
