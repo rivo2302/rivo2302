@@ -1,7 +1,7 @@
 
 <p align=center>  <strong>Bienvenu sur mon compte github :) </strong> <p>
 <p align=center>  
-  <img src='https://readme-typing-svg.herokuapp.com?font=product+sans&color=%2300B6B6&center=true&lines=RAJAONARIVONY+Rivo+Lalaina'>
+  <img src='https://readme-typing-svg.herokuapp.com?font=product+sans&color=%2300B6B6&center=true&lines=Odoo+/||Bot Messenge+||Webscrapping'>
 <p>
 <div align="center">
     <img src="https://img.shields.io/badge/-Python-000000?style=flat&logo=python&logoColorhalf=396E9B" /> <br>
