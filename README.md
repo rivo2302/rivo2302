@@ -1,6 +1,6 @@
 
 <p align=center>  <strong>Bienvenu sur mon profil 😁</strong> <p>
-<h1 align=center><img src="https://readme-typing-svg.herokuapp.com?font=jetbrains+mono&color=%231479BD&size=22&center=true&vCenter=true&lines=Odoo%2C+Webscrapping%2C+Chatbot;Python%2C+Docker%2C+Linux" alt="Bot Messenger, Flask, Webscrapping"></h1>
+<h1 align=center><img src="https://readme-typing-svg.herokuapp.com?font=jetbrains+mono&color=%teal&size=23&center=true&vCenter=true&lines=Odoo%2C+Webscrapping%2C+Chatbot;Python%2C+Docker%2C+Linux" alt="Bot Messenger, Flask, Webscrapping"></h1>
 <div align="center">
     <img src="https://img.shields.io/badge/-Odoo-C162DE?style=for-the-badge&logo=python&logoColor=FFFFFF"/>
     <img src="https://img.shields.io/badge/-Selenium-16C636?style=for-the-badge&logo=selenium&logoColor=FFFFFF"/>
@@ -26,10 +26,10 @@
 <p>
 <p align=center><strong>  Merci pour la visite! 🇲🇬</strong> <p>
 <div align="center"> 
-    <a href="https://www.linkedin.com/in/rajaonarivony/"><img src="https://img.shields.io/static/v1?label=LinkdedIn&message=Click here&color=white&logo=linkedin&style=for-the-badge&logoColor=0D77FE"> <a/>
-    <a href="https://rivo.iteam-s.mg"><img src=https://img.shields.io/static/v1?label=ABOUT%20ME&message=Portfolio&color=white&logo=google&style=for-the-badge&logoColor=teal"> <a/>
-    <a href="https://skype.com"><img src="https://img.shields.io/static/v1?label=skype&message=Rivo%20Lalaina&color=white&logo=skype&style=for-the-badge&logoColor=128AEF"><a/>
-    <a href="https://whatsapp.me"><img src="https://img.shields.io/static/v1?label=Whatsapp&message=0340921107&color=white&logo=whatsapp&style=for-the-badge&logoColor=0AA73C"><a/>
+    <a href="https://www.linkedin.com/in/rajaonarivony/"><img src="https://img.shields.io/static/v1?label=LinkdedIn&message=Click here&color=0F9E9E&logo=linkedin&style=for-the-badge&logoColor=0F9E9E"> <a/>
+    <a href="https://rivo.iteam-s.mg"><img src=https://img.shields.io/static/v1?label=ABOUT%20ME&message=Portfolio&color=0F9E9E&logo=google&style=for-the-badge&logoColor=0F9E9E"> <a/>
+    <a href="https://skype.com"><img src="https://img.shields.io/static/v1?label=skype&message=Rivo%20Lalaina&color=0F9E9E&logo=skype&style=for-the-badge&logoColor=0F9E9E"><a/>
+    <a href="https://whatsapp.me"><img src="https://img.shields.io/static/v1?label=Whatsapp&message=0340921107&color=0F9E9E&logo=whatsapp&style=for-the-badge&logoColor=0F9E9E"><a/>
     
 </div>
                  
