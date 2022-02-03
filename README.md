@@ -18,18 +18,12 @@
     <img src="https://img.shields.io/badge/-Docker-1926F1?style=for-the-badge&logo=docker&logoColor=FFFFFF">
 </div>
 <br>
-<br>
 <div>
   <p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=rivo2302&theme=solarized-dark&theme=leafy&ring=047884&sideNums=06ACBD&dates=06ACBD&currStreakNum=08E8FF&currStreakLabel=08E8FF&background=ffffff00&hide_border=true&stroke=ffffff00" alt="GitHub Stats" /> <br/><br/>
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=rivo2302&theme=solarized-dark&theme=leafy&ring=047884&sideNums=06ACBD&dates=06ACBD&currStreakNum=08E8FF&currStreakLabel=08E8FF&background=ffffff00&hide_border=true&stroke=ffffff00" alt="GitHub Stats" /> <br/>
   </p>
 </div>
-<p align=center>  
-  <strong>
-      <img src='https://komarev.com/ghpvc/?username=rivo2302&color=008080'>
-  </strong> 
-<p>
-<p align=center><strong>  Merci pour la visite! 🇲🇬</strong> <p>
+
 <div align="center"> 
     <a href="https://www.linkedin.com/in/rajaonarivony/"><img src="https://img.shields.io/static/v1?label=LinkdedIn&message=Click here&color=0F9E9E&logo=linkedin&style=for-the-badge&logoColor=0F9E9E"> <a/>
     <a href="https://rivo.iteam-s.mg"><img src=https://img.shields.io/static/v1?label=ABOUT%20ME&message=Portfolio&color=0F9E9E&logo=google&style=for-the-badge&logoColor=0F9E9E"> <a/>
@@ -37,7 +31,12 @@
     <a href="https://whatsapp.me"><img src="https://img.shields.io/static/v1?label=Whatsapp&message=0340921107&color=0F9E9E&logo=whatsapp&style=for-the-badge&logoColor=0F9E9E"><a/>
     
 </div>
-                 
-       
-    
+<br><br>     
+<p align=center>  
+  <strong>
+      <img src='https://komarev.com/ghpvc/?username=rivo2302&color=008080'>
+  </strong> 
+<p>
+
+<p align=center><strong>  Merci pour la visite! 🇲🇬</strong> <p>
 
