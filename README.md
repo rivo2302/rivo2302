@@ -1,5 +1,5 @@
 
-<p align=center>  <strong>Bienvenu sur mon profil et suivez moi😁 </strong> <p>
+<p align=center>  <strong>Bienvenu sur mon profil😁 </strong> <p>
 <h1 align=center><img src="https://readme-typing-svg.herokuapp.com?font=jetbrains+mono&color=%teal&size=23&center=true&vCenter=true&lines=Odoo%2C+Webscrapping%2C+Chatbot;Python%2C+Docker%2C+Linux" alt="Bot Messenger, Flask, Webscrapping"></h1>
 <div align="center">
     <img src="https://img.shields.io/badge/-Odoo-C162DE?style=for-the-badge&logo=python&logoColor=FFFFFF"/>
