@@ -27,7 +27,6 @@
 <div align="center"> 
     <a href="https://www.linkedin.com/in/rajaonarivony/"><img src="https://img.shields.io/static/v1?label=LinkdedIn&message=Click here&color=0F9E9E&logo=linkedin&style=for-the-badge&logoColor=0F9E9E"> <a/>
     <a href="https://rivo.iteam-s.mg"><img src=https://img.shields.io/static/v1?label=ABOUT%20ME&message=Portfolio&color=0F9E9E&logo=google&style=for-the-badge&logoColor=0F9E9E"> <a/>
-    <a href="https://skype.com"><img src="https://img.shields.io/static/v1?label=skype&message=Rivo%20Lalaina&color=0F9E9E&logo=skype&style=for-the-badge&logoColor=0F9E9E"><a/>
     
 </div>
 <br><br>     
