@@ -1,6 +1,6 @@
 
 <p align='center'><img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Tongasoa+ianao+!+🇲🇬&fontSize=26"></p>
-<h1 align=center><img src="https://readme-typing-svg.herokuapp.com?font=jetbrains+mono&color=%teal&size=23&center=true&vCenter=true&lines=Odoo%2C+Webscrapping%2C+Chatbot;Python%2C+Docker%2C+Linux" alt="Bot Messenger, Flask, Webscrapping"></h1>
+<h1 align=center><img src="https://readme-typing-svg.herokuapp.com?font=jetbrains+mono&color=%teal&size=23&center=true&vCenter=true&lines=Odoo%2C+Fastapi%2C+Selenium;Docker%2C+GCP%2C+Linux" alt="Bot Messenger, Flask, Webscrapping"></h1>
 <div align="center">
     <img src="https://img.shields.io/badge/-Python-396E9B?style=for-the-badge&logo=python&logoColor=FFFFFF"/> 
      <img src="https://img.shields.io/badge/-DART-42A5F5?&style=for-the-badge&logo=dart&logoColor=FFFFFF"/>
