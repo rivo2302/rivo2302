@@ -26,10 +26,3 @@
   </strong> 
 <p>
 <p align=center><strong>  Merci pour la visite! 🇲🇬</strong> <p>
-<p align=center>
-  <a href="https://www.linkedin.com/in/rajaonarivony/"><img height=35 width=35 src="https://github.com/rootkit7628/rootkit7628/blob/main/img/in.png"></a>
-  &nbsp
-  <a href="https://rivo.iteam-s.mg"><img height=35 width=35 src="https://github.com/rootkit7628/rootkit7628/blob/main/img/iteams.png"></a>
-  &nbsp
-  <a href="https://www.facebook.com/rivolalaina.rajaonarivony"><img height=35 width=35 src="https://github.com/rootkit7628/rootkit7628/blob/main/img/facebook.png"></a>
-</p>
