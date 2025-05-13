@@ -16,9 +16,7 @@
 </div>
 <br>
 <div>
-  <p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=rivo2302&theme=solarized-dark&theme=leafy&ring=047884&sideNums=06ACBD&dates=06ACBD&currStreakNum=08E8FF&currStreakLabel=08E8FF&background=ffffff00&hide_border=true&stroke=ffffff00" alt="GitHub Stats" /> <br/>
-  </p>
+
 </div>    
 <p align=center>  
   <strong>
@@ -26,10 +24,3 @@
   </strong> 
 <p>
 <p align=center><strong>  Merci pour la visite! 🇲🇬</strong> <p>
-<p align=center>
-  <a href="https://www.linkedin.com/in/rajaonarivony/"><img height=35 width=35 src="https://github.com/rootkit7628/rootkit7628/blob/main/img/in.png"></a>
-  &nbsp
-  <a href="https://rivo.iteam-s.mg"><img height=35 width=35 src="https://github.com/rootkit7628/rootkit7628/blob/main/img/iteams.png"></a>
-  &nbsp
-  <a href="https://www.facebook.com/rivolalaina.rajaonarivony"><img height=35 width=35 src="https://github.com/rootkit7628/rootkit7628/blob/main/img/facebook.png"></a>
-</p>
