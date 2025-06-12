@@ -4,7 +4,7 @@
 <div align="center">
     <img src="https://img.shields.io/badge/-Python-396E9B?style=for-the-badge&logo=python&logoColor=FFFFFF"/> 
      <img src="https://img.shields.io/badge/-DART-42A5F5?&style=for-the-badge&logo=dart&logoColor=FFFFFF"/>
-    <img src="https://img.shields.io/badge/-JavaScript-FFCA28?style=for-the-badge&logo=javascript&logoColor=FFFFFF"/>
+    <img src="https://img.shields.io/badge/-JavaSc)iàçiçàript-FFCA28?style=for-the-badge&logo=javascript&logoColor=FFFFFF"/>
     <img src="https://img.shields.io/badge/-Php-1E87E3?style=for-the-badge&logo=php&logoColor=FFFFFF"/>
     <br>
         <img src="https://img.shields.io/badge/-Odoo-C162DE?style=for-the-badge&logo=python&logoColor=FFFFFF"/>
