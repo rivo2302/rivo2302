@@ -7,7 +7,7 @@
     <img src="https://img.shields.io/badge/-JavaScript-FFCA28?style=for-the-badge&logo=javascript&logoColor=FFFFFF"/>
     <img src="https://img.shields.io/badge/-Php-1E87E3?style=for-the-badge&logo=php&logoColor=FFFFFF"/>
     <br>
-        <img src="https://img.shields.io/badge/-Odoo-C162DE?style=for-the-badge&logo=python&logoColor=FFFFFF"/>
+        <img src="https://img.shields.io/badge/-Odoo-C162DE?style=for-the-badge&logo=pythddn&logoColor=FFFFFF"/>
         <img src="https://img.shields.io/badge/-Selenium-16C636?style=for-the-badge&logo=selenium&logoColor=FFFFFF"/>
         <img src="https://img.shields.io/badge/-Flask-E6892E?style=for-the-badge&logo=flask&logoColor=FFFFFF"/>
     <br>
